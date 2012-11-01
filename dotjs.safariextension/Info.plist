@@ -4,6 +4,8 @@
 <dict>
 	<key>Author</key>
 	<string>Chris Wanstrath (adapted for Safari by Will Farrington)</string>
+	<key>Builder Version</key>
+	<string>8536.26.14</string>
 	<key>CFBundleDisplayName</key>
 	<string>dotjs</string>
 	<key>CFBundleIdentifier</key>
